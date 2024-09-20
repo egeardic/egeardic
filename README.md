@@ -11,6 +11,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=egeardic&theme=dark&hide_border=true)<br/>
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme.vercel.app/' style="height: 400px;"/>
+<img src='https://codermemes.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

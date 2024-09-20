@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Mobile App with React Native<br>🌱 I’m currently learning Generative AI & LLM<br>💬 Ask me about .Net, Python, Stable Diffusion or JS<br>⚡ Fun fact... Pikachu's name is derived from the Japanese words “pika” and “chu”. Pika” represents the sound of crackling electricity, while “chu” is an onomatopoeic word for the sound a mouse makes.
+🔭 I’m currently working on a Mobile App with Swift<br>🌱 I’m currently learning Generative AI & LLM<br>💬 Ask me about .Net, Python, Stable Diffusion or JS<br>⚡ Fun fact... Pikachu's name is derived from the Japanese words “pika” and “chu”. Pika” represents the sound of crackling electricity, while “chu” is an onomatopoeic word for the sound a mouse makes.
 
 
 ## 🌐 Socials:

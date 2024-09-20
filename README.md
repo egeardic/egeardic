@@ -10,7 +10,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=egeardic&theme=dark&hide_border=true)<br/>
 
-### 😂 Random Dev Meme
-<img src='https://codermemes.vercel.app/#1' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
